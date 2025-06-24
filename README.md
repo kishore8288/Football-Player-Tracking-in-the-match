@@ -32,5 +32,5 @@ or I will provide the resnet model weights [here](https://drive.google.com/file/
 > ```ffmpeg -i extracted.mp4 -i original_video.mp4 -c:v copy -map 0:v:0 -map 1:a:0 -shortest extracted_AV.mp4```\
 > This has to be executed after step-3
 
->[!Tip]
+>[!Important]
 > The folder names I used in this codes are my folders. So, edit the code with your folder names prior the execution to run the code smoothly.
