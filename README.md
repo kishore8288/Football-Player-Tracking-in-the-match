@@ -22,12 +22,11 @@
 **Run ResnetTrain.py code in your terminal**\
 `python ResnetTrain.py`/
 or I will provide the resnet model weights [here](https://drive.google.com/file/d/1_iPCA7_PRhZK7xwhJXMLtTOO6QwSozXp/view?usp=sharing)\
--[x] Just download it and go to step-3
+- [x] #Just download it and go to step-3
 
 ## STEP-3 : Inference stage
 **Run PlayerDetectionLocalizationVideo.py in you terminal as stated above**\
 
 >[!NOTE]
 > To get the audio of the original file to the extracted video file, use this command :
-> ```ffmpeg -i extracted.mp4 -i original_video.mp4 -c:v copy -map 0:v:0 -map 1:a:0 -shortest extracted_AV.mp4
-```
+> ```ffmpeg -i extracted.mp4 -i original_video.mp4 -c:v copy -map 0:v:0 -map 1:a:0 -shortest extracted_AV.mp4```
