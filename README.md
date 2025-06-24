@@ -20,10 +20,9 @@
 
 ## STEP-2 : Training ResNet
 **Run ResnetTrain.py code in your terminal**\
-`python ResnetTrain.py`
-      or
-I will provide the resnet model weights [here](https://drive.google.com/file/d/1_iPCA7_PRhZK7xwhJXMLtTOO6QwSozXp/view?usp=sharing)\
-`Just download it and go to step-3`
+`python ResnetTrain.py`/
+or I will provide the resnet model weights [here](https://drive.google.com/file/d/1_iPCA7_PRhZK7xwhJXMLtTOO6QwSozXp/view?usp=sharing)\
+-[x] Just download it and go to step-3
 
 ## STEP-3 : Inference stage
 **Run PlayerDetectionLocalizationVideo.py in you terminal as stated above**\
