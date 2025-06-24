@@ -3,7 +3,7 @@
 
 `Step to procede, setup and run the code:`
 1. Download the [dataset](https://www.kaggle.com/datasets/kishore8824/messi-ronaldo-classification-dataset) and the video file from my repo.
-2. Install `**python**` or `**Jupyter notebook**`
+2. Install **python** or **Jupyter notebook**
 3. Installing Necessary libraries
    - Numpy : ```pip install numpy```
    - Matplotlib : ```pip install matplotlib```
@@ -13,3 +13,6 @@
    - Pytorch : ```pip install torch torchvision torchaudio```
    - Ultralytics : ```pip install ultralytics```
    - MoviePY : ```pip install moviepy```
+
+> [!NOTE]
+> Use the above commands only in the command prompt or terminal
