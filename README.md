@@ -34,3 +34,5 @@ or I will provide the resnet model weights [here](https://drive.google.com/file/
 
 >[!Important]
 > The folder names I used in this codes are my folders. So, edit the code with your folder names prior the execution to run the code smoothly.
+
+**A brief report on the assignment method** [doc](https://docs.google.com/document/d/1QXSgaiWXFNRcbqW4IKmaWxw9-Xn6wmtTxRSbksT4JpE/edit?usp=sharing)
